@@ -48,4 +48,7 @@ def management_flags(report, important_date):
                                     #print(diff)
                                     if diff.days < 730:
                                         change_of_manager_count += 1
-    return {​​​​"change_of_manager_count": change_of_manager_count}
+    return change_of_manager_count
+    #{​​​​"change_of_manager_count": change_of_manager_count}
+
+    

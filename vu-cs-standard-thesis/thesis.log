@@ -1,0 +1,665 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.19)  7 JUL 2021 10:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.tex
+(/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/Latex/Classes/PhDthesisPSnPDF.cls
+Document Class: Latex/Classes/PhDthesisPSnPDF 2007/09/06 v2 PhD thesis class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/caption.sty
+Package: caption 2004/05/16 v3.0b Customising captions (AS)
+\captionmargin=\dimen139
+\captionwidth=\dimen140
+\captionindent=\dimen141
+\captionparindent=\dimen142
+\captionhangindent=\dimen143
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/fancyhdr.sty
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/03 3.55 The Babel package
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/03 3.55 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen144
+\l@babelnohyphens=\language86
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/footmisc.sty
+Package: footmisc 2005/03/17 v5.3d a miscellany of footnote facilities
+\FN@temptoken=\toks17
+\footnotemargin=\dimen145
+\c@pp@next@reset=\count190
+\c@@fnserial=\count191
+Package footmisc Info: Declaring symbol style bringhurst on input line 817.
+Package footmisc Info: Declaring symbol style chicago on input line 818.
+Package footmisc Info: Declaring symbol style wiley on input line 819.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 823.
+Package footmisc Info: Declaring symbol style lamport* on input line 831.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 840.
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/natbib.sty
+Package: natbib 1998/07/14 6.8c (PWD)
+\bibhang=\skip58
+\bibsep=\skip59
+LaTeX Info: Redefining \cite on input line 467.
+\c@NAT@ctr=\count192
+
+
+Package natbib Warning: If you use both babel and natbib
+(natbib)                then load babel AFTER natbib.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box47
+\multicol@leftmargin=\dimen146
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
+\full@width=\dimen147
+\page@free=\dimen148
+\premulticols=\dimen149
+\postmulticols=\dimen150
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen151
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count268
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/tocbibind.sty
+Package: tocbibind 2003/02/04 v1.5f extra ToC listings
+
+
+Package tocbibind Note: The document has chapter divisions.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen155
+\nom@tempdim=\dimen156
+\nomitemsep=\skip62
+)
+\@nomenclaturefile=\write3
+\openout3 = `thesis.nlo'.
+
+
+Writing nomenclature file thesis.nlo
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 4073.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4073.
+
+
+Package hyperref Warning: Values of option `pdfpagelayout':
+(hyperref)                * `SinglePage'
+(hyperref)                * `OneColumn'
+(hyperref)                * `TwoColumnLeft'
+(hyperref)                * `TwoColumnRight'
+(hyperref)                * `TwoPageLeft' (PDF 1.5)
+(hyperref)                * `TwoPageRight' (PDF 1.5)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `useoutlines' on input line 4073.
+
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4073.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4073.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4073.
+Package hyperref Info: Option `colorlinks' set `false' on input line 4073.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4073.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 4073.
+Package hyperref Info: Hyper figures ON on input line 4190.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing ON on input line 4210.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+))
+\c@Hy@tempcnt=\count272
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen158
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count273
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures ON on input line 6073.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing ON on input line 6088.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver: hpdftex.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+\Hy@SectionHShift=\skip63
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen163
+\ar@mcellbox=\box93
+\extrarowheight=\dimen164
+\NC@list=\toks18
+\extratabsurround=\skip64
+\backup@length=\skip65
+\ar@cellbox=\box94
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count279
+\calc@Bcount=\count280
+\calc@Adimen=\dimen165
+\calc@Bdimen=\dimen166
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count281
+\calc@Cskip=\skip68
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen167
+\ESO@tempdimb=\dimen168
+)
+\AM@pagewidth=\dimen169
+\AM@pageheight=\dimen170
+\AM@fboxrule=\dimen171
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count282
+\AM@pagebox=\box95
+\AM@global@opts=\toks19
+\AM@pagecnt=\count283
+\AM@toc@title=\toks20
+\c@AM@survey=\count284
+\AM@templatesizebox=\box96
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box97
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+)) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.aux (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/abstract.aux) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/dedication.aux) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/acknowledgement.aux) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/appendix.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen172
+\scratchbox=\box98
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen173
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 123.
+))
+\CenteringLeftskip=\skip69
+\RaggedLeftLeftskip=\skip70
+\RaggedRightLeftskip=\skip71
+\CenteringRightskip=\skip72
+\RaggedLeftRightskip=\skip73
+\RaggedRightRightskip=\skip74
+\CenteringParfillskip=\skip75
+\RaggedLeftParfillskip=\skip76
+\RaggedRightParfillskip=\skip77
+\JustifyingParfillskip=\skip78
+\CenteringParindent=\skip79
+\RaggedLeftParindent=\skip80
+\RaggedRightParindent=\skip81
+\JustifyingParindent=\skip82
+)
+Package caption Info: float package v1.2 (or newer) detected on input line 52.
+Package caption Info: listings package v1.2 (or newer) detected on input line 52.
+Package caption Info: longtable package v3.15 (or newer) detected on input line 52.
+Package caption Info: rotating package v2.0 (or newer) detected on input line 52.
+Package caption Info: sidecap package v1.4d (or newer) detected on input line 52.
+Package caption Info: supertabular package detected on input line 52.
+Package hyperref Info: Link coloring OFF on input line 52.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count292
+)
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
+ (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.out) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+Package backref Info: ** backref set up for natbib ** on input line 52.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<0_frontmatter/figures/vu-griffioen.pdf, id=68, 597.23125pt x 845.1575pt>
+File: 0_frontmatter/figures/vu-griffioen.pdf Graphic file (type pdf)
+<use 0_frontmatter/figures/vu-griffioen.pdf>
+Package pdftex.def Info: 0_frontmatter/figures/vu-griffioen.pdf  used on input line 62.
+(pdftex.def)             Requested size: 50.25821pt x 71.13188pt.
+<0_frontmatter/figures/uva_logo.jpg, id=69, 481.8pt x 481.8pt>
+File: 0_frontmatter/figures/uva_logo.jpg Graphic file (type jpg)
+<use 0_frontmatter/figures/uva_logo.jpg>
+Package pdftex.def Info: 0_frontmatter/figures/uva_logo.jpg  used on input line 64.
+(pdftex.def)             Requested size: 42.67642pt x 42.67912pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/figures/vu-griffioen.pdf> </Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/figures/uva_logo.jpg>] [2]
+\openout2 = `0_frontmatter/abstract.aux'.
+
+ (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/abstract.tex [3
+
+]) [4
+\FN@pp@footnotehinttrue 
+
+\FN@pp@footnotehinttrue 
+
+
+]
+\openout2 = `0_frontmatter/dedication.aux'.
+
+ (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/dedication.tex)
+\openout2 = `0_frontmatter/acknowledgement.aux'.
+
+ (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/acknowledgement.tex) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.toc)
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185 \listoffigures
+                    	% print list of figures [1
+
+
+\FN@pp@footnotehinttrue 
+
+\FN@pp@footnotehinttrue 
+
+
+\FN@pp@footnotehinttrue 
+
+\FN@pp@footnotehinttrue 
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185 \listoffigures
+                    	% print list of figures [2
+
+] (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.187 \listoftables
+                     % print list of tables [3]pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.187 \listoftables
+                     % print list of tables [4
+
+] (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.lot)
+\tf@lot=\write7
+\openout7 = `thesis.lot'.
+
+ [5] [6
+
+] (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/intro.tex
+ 1.
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/background.tex [1
+
+] [2
+
+]
+ 2.
+[3] [4]) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/overview.tex [5] [6
+
+]
+ 3.
+[7]) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/design.tex [8]
+ 4.
+[9
+
+] [10]) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/evaluation.tex [11] [12
+
+]
+ 5.
+[13] [14] [15]) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/discussion.tex [16]
+ 6.
+) [17
+
+] (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/threats.tex [18] [19] [20
+
+]
+ 7.
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/related.tex [21] [22
+
+]
+ 8.
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/conclusion.tex [23] [24
+
+]
+ 9.
+) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.bbl (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.brf)
+\tf@brf=\write8
+\openout8 = `thesis.brf'.
+
+ [25] [26
+
+]) [27]
+\openout2 = `sections/appendix.aux'.
+
+ (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/appendix.tex [28
+
+
+]) [29] (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.aux (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/abstract.aux) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/dedication.aux) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/0_frontmatter/acknowledgement.aux) (/Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/sections/appendix.aux))
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: D244AFA029736DDE839DFF5F5F5F9596;2003.
+Package rerunfilecheck Info: File `thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 0DD715304C3D1D8BFBBE4770AD90411C;41.
+ ) 
+Here is how much of TeX's memory you used:
+ 12464 strings out of 479000
+ 189079 string characters out of 5858697
+ 777055 words of memory out of 5000000
+ 29599 multiletter control sequences out of 15000+600000
+ 418233 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,11n,116p,509b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on /Users/asifanwar/Dev/git/TinyML/vu-cs-standard-thesis/thesis.pdf (39 pages, 241955 bytes).
+PDF statistics:
+ 321 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+
